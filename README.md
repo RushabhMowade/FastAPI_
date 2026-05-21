@@ -2,7 +2,7 @@
 
 InsureCast is a Machine Learning-powered web application that predicts the **Insurance Premium Category** of a user based on lifestyle, income, occupation, BMI, and city tier information.
 
-The project integrates a trained ML model with a **FastAPI backend** and an interactive **Streamlit frontend** to provide real-time predictions.
+This project demonstrates the integration of a trained Machine Learning model with a **FastAPI backend** and an interactive **Streamlit frontend** for real-time prediction workflows and API communication.
 
 Predicted categories:
 - 🔴 High
